@@ -1,0 +1,6 @@
+{
+  "name": "Secret Calculator Vault",
+  "description": "An advanced calculator app that acts as a secure vault for private photos and browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
